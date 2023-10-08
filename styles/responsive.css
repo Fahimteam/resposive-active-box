@@ -1,0 +1,241 @@
+@media screen and (max-width:1024px){
+  .banner-section {
+    padding-top: 142px;
+}
+.banner-section .container h1 {
+    font-size: 55px;
+    line-height: 58px;
+    margin-bottom: 10px;
+    padding: 0 100px;
+}
+.banner-section .container p { 
+    margin-bottom: 40px;
+}
+.share-section .container .location p {
+    padding: 0 64px;
+}
+.share-section .container {
+    padding-bottom: 16px;
+}
+.banner-section .container a {
+    left: 40%;
+    transform: translateX(-50% );
+}
+  .team-section .container .team-item img{
+    width: 70%;
+  }
+  .team-section .container .team-item h2 { 
+    font-size: 20px; 
+    padding-top: 11px;
+    padding-bottom: 9px;
+}
+.team-section .container .team-item h3 { 
+     padding-bottom: 8px;
+     
+}
+.team-section .container{
+  max-width: 1024px;
+}
+.image-section .content-itam h3 {
+    margin-top: 70px;
+    margin-bottom: 42px;
+    padding-left: 15px;
+    padding-right: 51px;
+}
+.image-section .content-itam p {
+    padding-left: 24px;
+    font-size: 13px;
+}
+  
+}
+@media screen and (max-width: 950px){
+ .banner-section .container h1 {
+    font-size: 45px;
+    line-height: 48px;    
+}
+.banner-section .container p {
+    font-size: 20px;
+    padding: 0 140px;
+}
+}
+@media screen and (max-width: 850px){
+  .service-section .container .service_item {
+    max-width: 45%;
+}
+.service-section .container .service_item h2 {
+    margin-top: 16px;
+    margin-bottom: 11px;
+}
+.team-section .container {
+ margin-left:  80px;
+}
+}
+@media screen and (max-width: 660px){
+  .header-menu{
+    display: none;
+  }
+  .ber-icon{
+    display: inline-block;
+    font-size: 2em;
+  }
+  .banner-section .container h1 {
+    font-size: 30px;
+    line-height: 38px;
+}
+.banner-section .container p {
+    font-size: 19px;
+    padding: 0 114px;
+}
+.banner-section .container a {
+    padding: 11px 18px;
+}
+.banner-section {
+  padding-bottom: 71px;
+}
+.service-section {
+    padding: 57px 0px;
+}
+.team-section .container{
+  display: flex;
+  flex-wrap: wrap;
+   
+}
+.image-section .content-itam h3 {
+    margin-top: 43px;
+    margin-bottom: 34px;
+    padding-left: 20px;
+    padding-right: 37px;
+}
+.image-section .content-itam h3 {
+    font-size: 27px;
+}
+.indicator {
+    top: 85%;
+    left: 55%;
+    transform: translate(-86% -60%); 
+}
+.image-section .content-itam p {
+    padding-left: 9px;
+    font-size: 13px;
+}
+.share-section .container .location p {
+    padding: 0 24px;
+}
+}
+@media screen and (max-width: 590px){
+  .banner-section .container h1 {
+    font-size: 30px;
+    line-height: 38px;
+    padding:  10px 30px;
+}
+.banner-section {
+    padding-top: 105px;
+}
+.banner-section .container p {
+    font-size: 19px;
+    padding: 0 94px;
+}
+.banner-section .container a {
+    left: 38%;
+    transform: translateX(-50% );
+}
+.banner-section .container p {
+    margin-bottom: 21px;
+}
+.image-section {
+    flex-direction: column;
+}
+.image-section .image-itam {
+    width: 100%;
+}
+.image-section .content-itam {
+    width: 100%;
+}
+.image-section .content-itam p {
+    padding-left: 21px;
+    font-size: 13px;
+    padding-bottom: 30px;
+}
+.indicator {
+    top: 87%;
+    left: 15%;
+    transform: translate(-86% -60%);
+}
+.download-section .container h3 {
+    margin-top: 41px;
+    margin-bottom: 19px;
+    font-size: 20px;
+}
+.download-section .container a { 
+    padding: 13px 26px; 
+    margin-bottom: 110px;
+}
+}
+@media screen and (max-width: 470px){
+  .share-section .container {
+    
+    flex-direction: column;
+}
+.share-section .container .location  {
+    width: 100%;
+    margin-bottom: 30px;
+}
+.share-section .container .share {
+    width: 100%;
+    margin-bottom: 30px;
+}
+.share-section .container .about {
+    width: 100%;
+    margin-bottom: 30px;
+}
+.share-section .container h2 {
+    padding-bottom: 14px;
+}
+.share-section .container p {
+  padding: 0 100px;
+}
+.gallery-section .gallery-item {
+    max-width: 100%;
+    padding: 5px 10px;
+}
+}
+@media screen and (max-width: 380px){
+  .banner-section .container h1 {
+    font-size: 20px;
+    line-height: 28px;
+    padding: 12px 26px;
+}
+.banner-section .container p {
+    font-size: 14px;
+    padding: 0 4px;
+}
+.banner-section .container a {
+    left: 30%;
+    transform: translateX(-50% );
+}
+.service-section .container .service_item {
+    max-width: 100%;
+}
+.gallery-section .gallery-item {
+    max-width: 100%;
+    padding: 5px 10px;
+}
+.team-section .container {
+    margin-left: 0;
+}
+.team-item{
+  margin-bottom: 20px;
+}
+.indicator {
+    top: 84%;
+    left: 15%;
+    transform: translate(-86% -60%);
+}
+.last-page .container {
+    padding-top: 22px;
+    padding-bottom: 32px;
+    text-align: center;
+    padding-left: 0;
+    padding-right: 0px;
+}
+}
